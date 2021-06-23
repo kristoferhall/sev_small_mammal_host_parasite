@@ -1,0 +1,1 @@
+Contains EML metadata for packages downloaded from EDI
