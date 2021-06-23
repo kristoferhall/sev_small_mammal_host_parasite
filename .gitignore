@@ -2,3 +2,5 @@ data/*/*
 metadata/
 !README.md
 
+.Rproj.user
+.Rhistory
